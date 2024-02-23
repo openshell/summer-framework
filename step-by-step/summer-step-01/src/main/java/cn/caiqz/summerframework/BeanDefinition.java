@@ -2,7 +2,7 @@ package cn.caiqz.summerframework;
 
 /**
  * <p>
- * 
+ * 模拟Spring的BeanDefinition
  * </p>
  *
  * @author caiqingzhou

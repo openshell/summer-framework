@@ -5,7 +5,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * <p>
- * 
+ * 模拟Spring 的BeanFactory
  * </p>
  *
  * @author caiqingzhou
