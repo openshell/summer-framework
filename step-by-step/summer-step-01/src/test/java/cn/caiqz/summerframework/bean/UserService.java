@@ -1,4 +1,4 @@
-package cn.caiqz.summerframework;
+package cn.caiqz.summerframework.bean;
 
 /**
  * <p>

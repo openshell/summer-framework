@@ -1,5 +1,6 @@
 package cn.caiqz.summerframework;
 
+import cn.caiqz.summerframework.bean.UserService;
 import org.junit.Test;
 /**
  * <p>
